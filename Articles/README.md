@@ -1,6 +1,6 @@
 ## papers
 
-### Gaussian Familys
+### Gaussian Family
 - LGM: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation.
   - 代码地址：[https://github.com/3DTopia/LGM](https://github.com/3DTopia/LGM)
   - 论文链接：[https://arxiv.org/abs/2402.05054](https://github.com/3DTopia/LGM)
