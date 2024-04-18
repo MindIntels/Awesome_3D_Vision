@@ -1,4 +1,4 @@
-
+## papers
 - GRM: Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation
   - 作者：Yinghao Xu, Zifan Shi, Wang Yifan, Hansheng Chen, Ceyuan Yang, Sida Peng, Yujun Shen, Gordon Wetzstein
   - 机构：斯坦福大学、香港科技大学、上海人工智能实验室、浙江大学、蚂蚁集团
