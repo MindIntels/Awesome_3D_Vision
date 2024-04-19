@@ -9,8 +9,7 @@
   <img src=https://img.shields.io/badge/Release-v0.1-brightgreen.svg >
  </div>   
 
-
-## Motivation
+## 📒Motivation
 - Tracking the cutting-edge 3D Reconstruction and Generation technology, including 3D Gaussian Splatting, SLAM, Neural Radiance Fields.
 - Analyzing the State-of-the-art papers from top conferences, including but not limited to ECCV, SIGGRAPH, ICCV, CVPR, ICLR, and NIPS.
 - Replicating classical paper results with SOTA performance.
