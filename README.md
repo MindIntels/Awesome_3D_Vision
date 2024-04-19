@@ -6,7 +6,6 @@
   <img src=https://img.shields.io/github/stars/MindIntels/Awesome_3D_Vision/.svg?style=social >
   <img src=https://img.shields.io/github/watchers/DefTruth/Awesome-LLM-Inference.svg?style=social >
   <img src=https://img.shields.io/badge/Release-v0.1-brightgreen.svg >
-  <img src=https://img.shields.io/badge/License-GPLv3.0-turquoise.svg >
  </div>   
 
 
