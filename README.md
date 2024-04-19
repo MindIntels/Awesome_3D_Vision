@@ -20,7 +20,7 @@
 
 ## Survey and Papers 
 - 🔥 [A Survey on 3D Gaussian Splatting](https://arxiv.org/abs/2401.03890) ⭐️⭐️⭐
-- 🔥[**DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation**]⭐️⭐️⭐️⭐️
+- 🔥[**DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation**](https://arxiv.org/abs/2309.16653)⭐️⭐️
 
 
 ## Experiments Visualization
