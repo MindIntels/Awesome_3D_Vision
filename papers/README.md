@@ -38,8 +38,8 @@
   - 代码地址：[https://github.com/CVMI-Lab/Total-Decom](https://github.com/CVMI-Lab/Total-Decom)
 
 - 🔥 MM3DGS SLAM: Multi-modal 3D Gaussian Splatting for SLAM Using Vision, Depth, and Inertial Measurements
- - 论文链接：[https://arxiv.org/abs/2404.00923](https://arxiv.org/abs/2404.00923)
- - 代码地址：[https://github.com/VITA-Group/MM3DGS-SLAM](https://github.com/VITA-Group/MM3DGS-SLAM)
+  - 论文链接：[https://arxiv.org/abs/2404.00923](https://arxiv.org/abs/2404.00923)
+  - 代码地址：[https://github.com/VITA-Group/MM3DGS-SLAM](https://github.com/VITA-Group/MM3DGS-SLAM)
 
 - LGM: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation.
   - 代码地址：[https://github.com/3DTopia/LGM](https://github.com/3DTopia/LGM)
