@@ -50,7 +50,19 @@
   - 机构：斯坦福大学、香港科技大学、上海人工智能实验室、浙江大学、蚂蚁集团
   - 原文链接：[https://arxiv.org/abs/2403.14621](https://arxiv.org/abs/2403.14621)
   - 代码链接：[https://github.com/justimyhxu/grm](https://huggingface.co/spaces/GRM-demo/GRM)
+ 
+- DN-Splatter: Depth and Normal Priors for Gaussian Splatting and Meshing
+  - 论文链接：[https://arxiv.org/abs/2403.17822](https://arxiv.org/abs/2403.17822)
+  - 代码地址：[https://github.com/maturk/dn-splatter](https://github.com/maturk/dn-splatter)
 
+- Depth-Regularized Optimization for 3D Gaussian Splatting in Few-Shot Images
+  - 论文链接：[https://arxiv.org/abs/2311.13398](https://arxiv.org/abs/2311.13398)
+  - 代码地址：[https://github.com/robot0321/DepthRegularizedGS](https://github.com/robot0321/DepthRegularizedGS)
+ 
+- Gaussian-SLAM: Photo-realistic Dense SLAM with Gaussian Splatting
+  - 论文链接：[https://arxiv.org/abs/2312.10070](https://arxiv.org/abs/2312.10070)
+  - 代码地址：[https://github.com/VladimirYugay/Gaussian-SLAM](https://github.com/VladimirYugay/Gaussian-SLAM)
+    
 ### NeRF Family
 
 - SPIn-NeRF: Multiview Segmentation and Perceptual Inpainting with Neural Radiance Fields
