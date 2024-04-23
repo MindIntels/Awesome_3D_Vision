@@ -62,6 +62,14 @@
 - Gaussian-SLAM: Photo-realistic Dense SLAM with Gaussian Splatting
   - 论文链接：[https://arxiv.org/abs/2312.10070](https://arxiv.org/abs/2312.10070)
   - 代码地址：[https://github.com/VladimirYugay/Gaussian-SLAM](https://github.com/VladimirYugay/Gaussian-SLAM)
+
+- Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction
+  - 论文链接：[https://arxiv.org/pdf/2309.13101.pdf](https://arxiv.org/pdf/2309.13101.pdf)
+  - 代码地址：[https://github.com/ingra14m/Deformable-3D-Gaussians](https://github.com/ingra14m/Deformable-3D-Gaussians)
+
+- SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes
+  - 论文链接：[https://yihua7.github.io/SC-GS-web/materials/SC_GS_Arxiv.pdf](https://yihua7.github.io/SC-GS-web/materials/SC_GS_Arxiv.pdf)
+  - 代码地址：[https://github.com/yihua7/SC-GS](https://github.com/yihua7/SC-GS)
     
 ### NeRF Family
 
