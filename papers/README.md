@@ -74,6 +74,10 @@
 - PhysDreamer: Physics-Based Interaction with 3D Objects via Video Generation
   - 论文链接：[https://arxiv.org/abs/2404.13026](https://arxiv.org/abs/2404.13026)
   - 代码地址：[https://github.com/a1600012888/PhysDreamer](https://github.com/a1600012888/PhysDreamer)
+ 
+- LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching
+  - 论文链接：[https://arxiv.org/abs/2311.11284](https://arxiv.org/abs/2311.11284)
+  - 代码地址：[https://github.com/EnVision-Research/LucidDreamer](https://github.com/EnVision-Research/LucidDreamer)
     
 ### NeRF Family
 
