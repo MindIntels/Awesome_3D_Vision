@@ -70,6 +70,10 @@
 - SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes
   - 论文链接：[https://yihua7.github.io/SC-GS-web/materials/SC_GS_Arxiv.pdf](https://yihua7.github.io/SC-GS-web/materials/SC_GS_Arxiv.pdf)
   - 代码地址：[https://github.com/yihua7/SC-GS](https://github.com/yihua7/SC-GS)
+ 
+- PhysDreamer: Physics-Based Interaction with 3D Objects via Video Generation
+  - 论文链接：[https://arxiv.org/abs/2404.13026](https://arxiv.org/abs/2404.13026)
+  - 代码地址：[https://github.com/a1600012888/PhysDreamer](https://github.com/a1600012888/PhysDreamer)
     
 ### NeRF Family
 
