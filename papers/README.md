@@ -78,6 +78,10 @@
 - LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching
   - 论文链接：[https://arxiv.org/abs/2311.11284](https://arxiv.org/abs/2311.11284)
   - 代码地址：[https://github.com/EnVision-Research/LucidDreamer](https://github.com/EnVision-Research/LucidDreamer)
+ 
+ - Hyper-3DG: Text-to-3D Gaussian Generation via Hypergraph
+  - 论文链接：[https://arxiv.org/pdf/2403.09236](https://arxiv.org/pdf/2403.09236)
+  - 代码地址：[https://github.com/yjhboy/Hyper3DG](https://github.com/yjhboy/Hyper3DG)
     
 ### NeRF Family
 
