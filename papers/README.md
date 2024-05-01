@@ -79,9 +79,21 @@
   - 论文链接：[https://arxiv.org/abs/2311.11284](https://arxiv.org/abs/2311.11284)
   - 代码地址：[https://github.com/EnVision-Research/LucidDreamer](https://github.com/EnVision-Research/LucidDreamer)
  
- - Hyper-3DG: Text-to-3D Gaussian Generation via Hypergraph
+- Hyper-3DG: Text-to-3D Gaussian Generation via Hypergraph
   - 论文链接：[https://arxiv.org/pdf/2403.09236](https://arxiv.org/pdf/2403.09236)
   - 代码地址：[https://github.com/yjhboy/Hyper3DG](https://github.com/yjhboy/Hyper3DG)
+
+- AbsGS: Recovering Fine Details for 3D Gaussian Splatting
+  - 论文链接：[https://arxiv.org/pdf/2404.10484](https://arxiv.org/pdf/2404.10484)
+  - 网站地址：[https://ty424.github.io/AbsGS.github.io/](https://ty424.github.io/AbsGS.github.io/)
+ 
+- RefFusion: Reference Adapted Diffusion Models for 3D Scene Inpainting
+  - 论文链接：[https://arxiv.org/abs/2404.10765](https://arxiv.org/abs/2404.10765)
+  - 网址地址：[https://reffusion.github.io/](https://reffusion.github.io/)
+ 
+- Learning 3D Geometry and Feature Consistent Gaussian Splatting for Object Removal
+  - 论文链接：[https://arxiv.org/pdf/2404.13679](https://arxiv.org/pdf/2404.13679)
+  - 网址地址：[https://w-ted.github.io/publications/gscream/](https://w-ted.github.io/publications/gscream/)
     
 ### NeRF Family
 
