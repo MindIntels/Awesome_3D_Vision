@@ -1,13 +1,8 @@
-## papers
+# papers
 
-### 3D Gaussian Family
+## 3D Gaussian Family
 
- 
-#### Recent 
-
-
-
-#### CVPR 2024
+### CVPR 2024
 
 **Scaffold-GS: Structured 3D Gaussians for View-Adaptive Rendering**
 
@@ -66,7 +61,7 @@
 - 代码地址: https://github.com/hustvl/GaussianDreamer
 
 
-#### Other
+### Other
 
 - 🔥 3D Gaussian Splatting for Real-Time Radiance Field Rendering  [**(SIGGRAPH2023 best paper)**] ⭐️⭐️⭐⭐️⭐️
   - 代码地址：[https://github.com/graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting)
@@ -153,7 +148,7 @@
   - 论文链接：[https://arxiv.org/pdf/2404.13679](https://arxiv.org/pdf/2404.13679)
   - 网址地址：[https://w-ted.github.io/publications/gscream/](https://w-ted.github.io/publications/gscream/)
     
-### NeRF Family
+## NeRF Family
 
 - SPIn-NeRF: Multiview Segmentation and Perceptual Inpainting with Neural Radiance Fields
   - 论文链接：[https://arxiv.org/abs/2211.12254](https://arxiv.org/abs/2211.12254)
