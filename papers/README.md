@@ -2,6 +2,72 @@
 
 ### 3D Gaussian Family
 
+ 
+#### Recent 
+
+
+
+#### CVPR 2024
+
+**Scaffold-GS: Structured 3D Gaussians for View-Adaptive Rendering**
+
+- Homepage: https://city-super.github.io/scaffold-gs/
+- 论文链接: https://arxiv.org/abs/2312.00109
+- 代码地址: https://github.com/city-super/Scaffold-GS
+
+**GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Real-time Human Novel View Synthesis**
+
+- Homepage: https://shunyuanzheng.github.io/GPS-Gaussian 
+- 论文链接: https://arxiv.org/abs/2312.02155
+- 代码地址: https://github.com/ShunyuanZheng/GPS-Gaussian
+
+**GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians**
+
+- 论文链接: https://arxiv.org/abs/2312.02134
+- 代码地址: https://github.com/huliangxiao/GaussianAvatar
+
+**GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting**
+
+- 论文链接：[https://arxiv.org/pdf/2311.14521.pdf](https://arxiv.org/pdf/2311.14521.pdf)
+- 代码地址：[https://github.com/buaacyw/GaussianEditor](https://github.com/buaacyw/GaussianEditor)
+
+**Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction**
+
+- Homepage: https://ingra14m.github.io/Deformable-Gaussians/ 
+- 论文链接: https://arxiv.org/abs/2309.13101
+- 代码地址: https://github.com/ingra14m/Deformable-3D-Gaussians
+
+**SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes**
+
+- Homepage: https://yihua7.github.io/SC-GS-web/ 
+- 论文链接：[https://yihua7.github.io/SC-GS-web/materials/SC_GS_Arxiv.pdf](https://yihua7.github.io/SC-GS-web/materials/SC_GS_Arxiv.pdf)
+- 代码地址：[https://github.com/yihua7/SC-GS](https://github.com/yihua7/SC-GS)
+
+**Spacetime Gaussian Feature Splatting for Real-Time Dynamic View Synthesis**
+
+- Homepage: https://oppo-us-research.github.io/SpacetimeGaussians-website/ 
+- 论文链接: https://arxiv.org/abs/2312.16812
+- 代码地址: https://github.com/oppo-us-research/SpacetimeGaussians
+
+**DNGaussian: Optimizing Sparse-View 3D Gaussian Radiance Fields with Global-Local Depth Normalization**
+
+- Homepage: https://fictionarry.github.io/DNGaussian/
+- 论文链接: https://arxiv.org/abs/2403.06912
+- 代码地址: https://github.com/Fictionarry/DNGaussian
+
+**4D Gaussian Splatting for Real-Time Dynamic Scene Rendering**
+
+- 论文链接: https://arxiv.org/abs/2310.08528
+- 代码地址: https://github.com/hustvl/4DGaussians
+
+**GaussianDreamer: Fast Generation from Text to 3D Gaussians by Bridging 2D and 3D Diffusion Models**
+
+- 论文链接: https://arxiv.org/abs/2310.08529
+- 代码地址: https://github.com/hustvl/GaussianDreamer
+
+
+#### Other
+
 - 🔥 3D Gaussian Splatting for Real-Time Radiance Field Rendering  [**(SIGGRAPH2023 best paper)**] ⭐️⭐️⭐⭐️⭐️
   - 代码地址：[https://github.com/graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting)
 
@@ -16,10 +82,6 @@
 - Gaussian Grouping: Segment and Edit Anything in 3D Scenes
   - 论文链接：[https://arxiv.org/pdf/2312.00732.pdf](https://arxiv.org/pdf/2312.00732.pdf)
   - 代码地址：[https://github.com/lkeab/gaussian-grouping](https://github.com/lkeab/gaussian-grouping)
-
-- GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting
-  - 论文链接：[https://arxiv.org/pdf/2311.14521.pdf](https://arxiv.org/pdf/2311.14521.pdf)
-  - 代码地址：[https://github.com/buaacyw/GaussianEditor](https://github.com/buaacyw/GaussianEditor)
     
 - Point'n Move: Interactive Scene Object Manipulation on Gaussian Splatting Radiance Fields
   - 论文链接：[https://arxiv.org/pdf/2311.16737.pdf](https://arxiv.org/pdf/2311.16737.pdf)
@@ -67,10 +129,6 @@
   - 论文链接：[https://arxiv.org/pdf/2309.13101.pdf](https://arxiv.org/pdf/2309.13101.pdf)
   - 代码地址：[https://github.com/ingra14m/Deformable-3D-Gaussians](https://github.com/ingra14m/Deformable-3D-Gaussians)
 
-- SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes
-  - 论文链接：[https://yihua7.github.io/SC-GS-web/materials/SC_GS_Arxiv.pdf](https://yihua7.github.io/SC-GS-web/materials/SC_GS_Arxiv.pdf)
-  - 代码地址：[https://github.com/yihua7/SC-GS](https://github.com/yihua7/SC-GS)
- 
 - PhysDreamer: Physics-Based Interaction with 3D Objects via Video Generation
   - 论文链接：[https://arxiv.org/abs/2404.13026](https://arxiv.org/abs/2404.13026)
   - 代码地址：[https://github.com/a1600012888/PhysDreamer](https://github.com/a1600012888/PhysDreamer)
