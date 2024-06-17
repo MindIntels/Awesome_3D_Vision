@@ -26,8 +26,8 @@ python gaussian_splatting/train.py -s ./data/ro_006/ -m output/ro_006 -u nothing
 # rendering
 python gaussian_splatting/render.py -s ./data/ro_006 -m ./output/ro_006 -u nothing
 ```
-<img src="https://github.com/MindIntels/Awesome_3D_Vision/assets/59688873/10ecab55-cd1e-410f-a4cc-57c1d624f2a1" width="30%">
-<!-- ![image | 40%](https://github.com/MindIntels/Awesome_3D_Vision/assets/59688873/10ecab55-cd1e-410f-a4cc-57c1d624f2a1)  -->
+<img src="https://github.com/MindIntels/Awesome_3D_Vision/assets/59688873/10ecab55-cd1e-410f-a4cc-57c1d624f2a1" width="60%">
+
 
 
 Only training the unmasked regions of input images.
@@ -38,7 +38,7 @@ python gaussian_splatting/train.py -s ./data/ro_006/ -m output/ro_006_unmasked -
 # rendering
 python gaussian_splatting/render.py -s ./data/ro_006 -m ./output/ro_006_unmasked -u nothing
 ```
-![image](https://github.com/MindIntels/Awesome_3D_Vision/assets/59688873/36655771-df17-4147-97e5-d5d5cc882ae7 width=60%)
+<img src="https://github.com/MindIntels/Awesome_3D_Vision/assets/59688873/36655771-df17-4147-97e5-d5d5cc882ae7" width="60%">
 
 
 ## 3 Use pretrained depth inpainting model to fill masked region
