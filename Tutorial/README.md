@@ -26,6 +26,8 @@ python gaussian_splatting/train.py -s ./data/ro_006/ -m output/ro_006 -u nothing
 # rendering
 python gaussian_splatting/render.py -s ./data/ro_006 -m ./output/ro_006 -u nothing
 ```
+![image](https://github.com/MindIntels/Awesome_3D_Vision/assets/59688873/10ecab55-cd1e-410f-a4cc-57c1d624f2a1 width=60%)
+
 
 Only training the unmasked regions of input images.
 ```python
@@ -35,7 +37,7 @@ python gaussian_splatting/train.py -s ./data/ro_006/ -m output/ro_006_unmasked -
 # rendering
 python gaussian_splatting/render.py -s ./data/ro_006 -m ./output/ro_006_unmasked -u nothing
 ```
-![image](https://github.com/MindIntels/Awesome_3D_Vision/assets/59688873/36655771-df17-4147-97e5-d5d5cc882ae7)
+![image](https://github.com/MindIntels/Awesome_3D_Vision/assets/59688873/36655771-df17-4147-97e5-d5d5cc882ae7 width=60%)
 
 
 ## 3 Use pretrained depth inpainting model to fill masked region
@@ -85,7 +87,7 @@ Then you can render the complete initial scene.
 ```cmd
 python gaussian_splatting/render.py -s ./data/spin_7 -m ./output/spin_7_unmasked -u nothing
 ```
-![image](https://github.com/MindIntels/Awesome_3D_Vision/assets/59688873/fb946134-ba2a-40e8-b32c-61d85f537582)
+![image](https://github.com/MindIntels/Awesome_3D_Vision/assets/59688873/fb946134-ba2a-40e8-b32c-61d85f537582 width=60%)
 
 
 ### 3.4 Finetune the masked region
@@ -97,5 +99,5 @@ Then you can render the final scene.
 ```cmd
 python gaussian_splatting/render.py -s ./data/spin_7 -m ./output/spin_7_unmasked -u nothing --iteration 150
 ```
-![image](https://github.com/MindIntels/Awesome_3D_Vision/assets/59688873/b84bb42f-82d1-46e3-8c8b-fa2a90bf1cfd)
+![image](https://github.com/MindIntels/Awesome_3D_Vision/assets/59688873/b84bb42f-82d1-46e3-8c8b-fa2a90bf1cfd width=60%)
 
