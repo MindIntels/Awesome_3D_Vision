@@ -19,6 +19,7 @@ pip install Code/gaussian_splatting/submodules/diff-gaussian-rasterization-confi
 
 ## 2 Raw training
 Use off-the-shelf 3DGS to train and render a raw model.
+You can run `bash raw_training.sh`.
 ```python
 cd Code
 # raw training
@@ -32,6 +33,7 @@ python gaussian_splatting/render.py -s ./data/ro_006 -m ./output/ro_006 -u nothi
 
 
 Only training the unmasked regions of input images.
+You can run `bash unmasked_training.sh`.
 ```python
 cd Code
 # raw training
@@ -98,6 +100,7 @@ python gaussian_splatting/render.py -s ./data/spin_7 -m ./output/spin_7_unmasked
 
 ### 3.4 Finetune the masked region
 You can use the reference view to finetune masked region.
+You can run `bash finetune.sh`.
 ```cmd
 python gaussian_splatting/train.py -s ./data/spin_7/ -m output/spin_7_unmasked -u img070.png -n data/spin_7/SD_outputs/img070.png --load_iteration 30001 --iteration 150
 ```
