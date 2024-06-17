@@ -17,8 +17,8 @@
 
 ## 📙News
 - [2024.6.17]🔥 Based on [Infusion](https://github.com/ali-vilab/Infusion), fixed a bug of it, supplemented the code and open majority of source codes. 
-- Integrating [SAGA](https://github.com/Jumpat/SegAnyGAussians) into our system.
-- Integrating [LGM](https://github.com/3DTopia/LGM) into our system.
+- Integrating [SAGA](https://github.com/Jumpat/SegAnyGAussians) into our system, for 3D semantic segmentation / open-vocabulary segmentation tasks.
+- Integrating [LGM](https://github.com/3DTopia/LGM) into our system, for 3D object generation task.
 
 
 ## Survey and Papers 
