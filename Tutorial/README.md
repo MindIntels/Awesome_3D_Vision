@@ -23,9 +23,9 @@ You can run `bash raw_training.sh`.
 ```python
 cd Code
 # raw training
-python gaussian_splatting/train.py -s ./data/ro_006/ -m output/ro_006 -u nothing
+python gaussian_splatting/train.py -s ./data/spin_7/ -m output/spin_7 -u nothing
 # rendering
-python gaussian_splatting/render.py -s ./data/ro_006 -m ./output/ro_006 -u nothing
+python gaussian_splatting/render.py -s ./data/spin_7 -m ./output/spin_7 -u nothing
 ```
 <div align=center>
 <img src="https://github.com/MindIntels/Awesome_3D_Vision/assets/59688873/10ecab55-cd1e-410f-a4cc-57c1d624f2a1" width="60%">
@@ -37,9 +37,9 @@ You can run `bash unmasked_training.sh`.
 ```python
 cd Code
 # raw training
-python gaussian_splatting/train.py -s ./data/ro_006/ -m output/ro_006_unmasked -u nothing --mask_training
+python gaussian_splatting/train.py -s ./data/spin_7/ -m output/spin_7_unmasked -u nothing --mask_training
 # rendering
-python gaussian_splatting/render.py -s ./data/ro_006 -m ./output/ro_006_unmasked -u nothing
+python gaussian_splatting/render.py -s ./data/spin_7 -m ./output/spin_7_unmasked -u nothing
 ```
 <div align=center>
 <img src="https://github.com/MindIntels/Awesome_3D_Vision/assets/59688873/36655771-df17-4147-97e5-d5d5cc882ae7" width="60%">
@@ -52,7 +52,7 @@ Please download the Infusion checkpoint and put it in the 'checkpoints' folder: 
 
 ### 3.2 Depth inpainting and lifting points to 3D space
 Choose a reference view to do depth inpainting, for lifting points to 3D space.
-You can easily run `bash depth_inpainting.sh`.
+You can easily run `bash depth_inpainting.sh spin_7 img070`.
 ```cmd
 cd Infusion/depth_inpainting/run
 dataname="$1"
@@ -79,7 +79,7 @@ python run_inference_inpainting.py \
 ```
 
 ### 3.3 Compose unmasked scene and initial masked scene
-You can easily run `bash compose.sh`.
+You can easily run `bash compose.sh spin_7`.
 ```cmd
 dataname="$1"
 
