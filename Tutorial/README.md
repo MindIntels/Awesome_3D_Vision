@@ -26,7 +26,8 @@ python gaussian_splatting/train.py -s ./data/ro_006/ -m output/ro_006 -u nothing
 # rendering
 python gaussian_splatting/render.py -s ./data/ro_006 -m ./output/ro_006 -u nothing
 ```
-![image | 40%](https://github.com/MindIntels/Awesome_3D_Vision/assets/59688873/10ecab55-cd1e-410f-a4cc-57c1d624f2a1) 
+<img src="https://github.com/MindIntels/Awesome_3D_Vision/assets/59688873/10ecab55-cd1e-410f-a4cc-57c1d624f2a1" width="30%">
+<!-- ![image | 40%](https://github.com/MindIntels/Awesome_3D_Vision/assets/59688873/10ecab55-cd1e-410f-a4cc-57c1d624f2a1)  -->
 
 
 Only training the unmasked regions of input images.
