@@ -63,7 +63,7 @@ input_mask_path="../../../data/${dataname}/mask2d/$picname.png"
 input_depth_path="../../../output/${dataname}_unmasked/train/ours_30000/depth/$picname.npy"
 c2w="../../../output/${dataname}_unmasked/train/ours_30000/c2w/$picname.npy"
 intri="../../../output/${dataname}_unmasked/train/ours_30000/intri/$picname.npy"
-model_path="/media/SSD/peng/Infusion/checkpoints"
+model_path="/path/to/checkpoints"   ### /path/to/checkpoints
 output_dir="../../../output/${dataname}_unmasked"
 
 python run_inference_inpainting.py \
