@@ -4,7 +4,13 @@
 #### InFusion: Inpainting 3D Gaussians via Learning Depth Completion from Diffusion Prior
 [**Tutorial**](https://github.com/MindIntels/Awesome_3D_Vision/tree/main/Tutorial)
 
+Based on [Infusion](https://github.com/ali-vilab/Infusion), 3D inpainting task is supported in our system.
 Original scene:
+<div align=center>
+<img src="https://github.com/MindIntels/Awesome_3D_Vision/assets/59688873/10ecab55-cd1e-410f-a4cc-57c1d624f2a1" width="60%">
+</div>
+
+After removing target object:
 <div align=center>
 <img src="https://github.com/MindIntels/Awesome_3D_Vision/assets/59688873/36655771-df17-4147-97e5-d5d5cc882ae7" width="60%">
 </div>
