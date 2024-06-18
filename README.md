@@ -11,11 +11,11 @@
 
 ## 📒Motivation
 - Tracking the cutting-edge 3D Reconstruction and Generation technology, including 3D Gaussian Splatting, SLAM, Neural Radiance Fields.
-- Analyzing the State-of-the-art papers from top conferences, including but not limited to ECCV, SIGGRAPH, ICCV, CVPR, ICLR, and NIPS.
+- Analyzing the State-of-the-art papers from top conferences, including but not limited to SIGGRAPH, CVPR, ICCV, ECCV, ICLR, ICML and NIPS.
 - Replicating classical paper results with SOTA performance.
 - Integrating the state-of-the-art algorithms and deploy it directly on the edge devices. 
 
-## 📙News
+## 📙TODO
 - [2024.6.17]🔥 Based on [Infusion](https://github.com/ali-vilab/Infusion), fix a bug of it, supplement the code and open majority of source codes. 
 - Integrating [SAGA](https://github.com/Jumpat/SegAnyGAussians), [LangSplat](https://github.com/minghanqin/LangSplat) into our system, for 3D semantic segmentation / open-vocabulary segmentation tasks.
 - Integrating [LGM](https://github.com/3DTopia/LGM), [LucidDreamer](https://github.com/EnVision-Research/LucidDreamer?tab=readme-ov-file) into our system, for 3D object generation task.
