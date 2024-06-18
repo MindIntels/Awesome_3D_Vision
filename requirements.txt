@@ -1,0 +1,9 @@
+matplotlib
+torchmetrics
+timm
+opencv_python
+imageio
+open3d
+plyfile
+diffusers
+transformers
