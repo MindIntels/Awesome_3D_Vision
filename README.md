@@ -19,7 +19,7 @@
 - [2024.6.17]🔥 Based on [Infusion](https://github.com/ali-vilab/Infusion), fix a bug of it, supplement the code and open majority of source codes. 
 - Integrating [SAGA](https://github.com/Jumpat/SegAnyGAussians), [LangSplat](https://github.com/minghanqin/LangSplat) into our system, for 3D semantic segmentation / open-vocabulary segmentation tasks.
 - Integrating [LGM](https://github.com/3DTopia/LGM), [LucidDreamer](https://github.com/EnVision-Research/LucidDreamer?tab=readme-ov-file) into our system, for 3D object generation task.
-
+- Integrating [Mip-Splatting](https://github.com/autonomousvision/mip-splatting) into our system, for eliminating multiple artifacts and achieving alias-free renderings.
 
 ## Survey and Papers 
 - 🔥 [A Survey on 3D Gaussian Splatting](https://arxiv.org/abs/2401.03890) ⭐️⭐️⭐
