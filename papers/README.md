@@ -147,6 +147,15 @@
 - Learning 3D Geometry and Feature Consistent Gaussian Splatting for Object Removal
   - 论文链接：[https://arxiv.org/pdf/2404.13679](https://arxiv.org/pdf/2404.13679)
   - 网址地址：[https://w-ted.github.io/publications/gscream/](https://w-ted.github.io/publications/gscream/)
+ 
+- Era3D: High-Resolution Multiview Diffusion using Efficient Row-wise Attention
+  - 论文链接：[https://arxiv.org/pdf/2405.11616](https://arxiv.org/pdf/2405.11616)
+  - 代码地址：[https://github.com/pengHTYX/Era3D](https://github.com/pengHTYX/Era3D)
+ 
+- SyncDreamer: Generating Multiview-consistent Images from a Single-view Image
+  - 论文链接：[https://arxiv.org/abs/2309.03453](https://arxiv.org/abs/2309.03453)
+  - 代码地址：[https://github.com/liuyuan-pal/SyncDreamer](https://github.com/liuyuan-pal/SyncDreamer)
+    
     
 ## NeRF Family
 
